@@ -14,6 +14,12 @@ An interactive visualization demonstrating **Eigen's Error Threshold** and the f
 
 ## 🎯 What This Simulates
 
+<p align="center">
+  <img src="./frontpage.png" alt="Paper Front Page" width="600">
+  <br>
+  <em>Krakauer's groundbreaking 2011 paper in Chaos journal</em>
+</p>
+
 This app visualizes one of the most profound discoveries in evolutionary theory: **there exists a "speed limit" for evolution** - analogous to the speed of light in physics. Just as matter cannot exceed light speed, **natural selection cannot maintain genetic information when mutations arrive faster than ~1 bit per generation**.
 
 ### The Error Threshold Equation
@@ -106,6 +112,12 @@ To acquire log(N) bits of information requires ~N genomes to die (differential m
 
 #### 2. **The Life Cone** (Figure 2, p. 6)
 Just as relativity has light cones limiting causal influence, evolution has "life cones":
+
+<p align="center">
+  <img src="./lightcone.png" alt="Light Cone and Life Cone from Krakauer 2011" width="700">
+  <br>
+  <em>Figure 2 from the paper: Light cones (physics) and Life cones (evolution) both define fundamental speed limits</em>
+</p>
 
 ```
 Mutations/genome/generation ≤ 1.0
