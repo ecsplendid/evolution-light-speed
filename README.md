@@ -2,9 +2,13 @@
 
 An interactive visualization demonstrating **Eigen's Error Threshold** and the fundamental thermodynamic limits on biological evolution, based on the groundbreaking paper ["Darwinian demons, evolutionary complexity, and information maximization"](https://doi.org/10.1063/1.3643064) by **David C. Krakauer** (Santa Fe Institute).
 
-![Demo](./demo.mov)
+## 🎬 Demo
 
-[📺 **Watch Live Demo**](./demo.mov)
+![Demo Preview](./demo.gif)
+
+https://github.com/ecsplendid/evolution-light-speed/assets/demo.mp4
+
+[📺 **Download Full Demo Video**](./demo.mov)
 
 ---
 
