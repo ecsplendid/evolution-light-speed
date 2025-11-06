@@ -6,9 +6,9 @@ An interactive visualization demonstrating **Eigen's Error Threshold** and the f
 
 ![Demo Preview](./demo.gif)
 
-https://github.com/ecsplendid/evolution-light-speed/assets/demo.mp4
+**[▶️ Watch Full Demo Video (MP4)](./demo.mp4)** | **[Download MOV](./demo.mov)**
 
-[📺 **Download Full Demo Video**](./demo.mov)
+*The GIF above shows the first 10 seconds - click to watch the full 49-second demonstration*
 
 ---
 
